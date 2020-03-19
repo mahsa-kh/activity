@@ -1,0 +1,11 @@
+/* Your avatar CSS code here */
+.avatar {
+ /*to make the picture small as we want*/
+ /* position: relative;
+  top: 100px;*/
+  width: 56px;
+  border-radius: 50%;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  border: white 1px solid;
+}
+
